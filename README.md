@@ -1,1 +1,1 @@
-# python_study_assigmment_01
+# python_study_assigmment
